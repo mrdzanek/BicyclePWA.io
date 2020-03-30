@@ -1,7 +1,7 @@
 const cacheName = 'v1';
 const cacheFiles = [
-    './index.html',
     './',
+    './index.html',
     './favicons/icon-72x72.png',
     './favicons/icon-96x96.png',
     './favicons/icon-128x128.png',
@@ -11,7 +11,7 @@ const cacheFiles = [
     './favicons/icon-384x384.png',
     './favicons/icon-512x512.png',
     './css/styles.css',
-
+    './js/main.js'
 ];
 
 
