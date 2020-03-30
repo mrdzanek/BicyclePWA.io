@@ -1,10 +1,10 @@
 const cacheName = 'v1';
 const cacheFiles = [
     './index.html',
+    './',
     'img/icon-72x72.png',
     'img/icon-96x96.png',
     'img/icon-128x128.png',
-    'img/icon-144x144.png',
     'img/icon-152x152.png',
     'img/icon-192x192.png',
     'img/icon-384x384.png',

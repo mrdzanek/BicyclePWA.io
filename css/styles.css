@@ -1,3 +1,24 @@
-.bicycles {
-
+h1{
+    font-weight: bold;
+    color: black;
+    background-color: #b4d4ff;
+}
+body{
+    font-family: Impact, Helvetica, sans-serif;
+    line-height: 1em;
+    margin: auto;
+}
+.col-4{
+    font-size: medium;
+    border-top: 2px black solid;
+    padding-top: 5px;
+}
+.col-8{
+    font-size: medium;
+    border-top: 2px black solid;
+    padding-top: 5px;
+}
+.bicycles{
+    font-size: large;
+    text-decoration: underline;
 }
