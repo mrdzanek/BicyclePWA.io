@@ -1,24 +1,51 @@
-h1{
+h1 {
     font-weight: bold;
     color: black;
     background-color: #b4d4ff;
 }
-body{
+
+body {
     font-family: Impact, Helvetica, sans-serif;
     line-height: 1em;
     margin: auto;
+    background-color: #efefef;
 }
-.col-4{
+
+.col-4 {
     font-size: medium;
     border-top: 2px black solid;
     padding-top: 5px;
 }
-.col-8{
+
+.col-8 {
     font-size: medium;
     border-top: 2px black solid;
     padding-top: 5px;
 }
-.bicycles{
+
+.bicycles {
     font-size: large;
     text-decoration: underline;
+}
+
+.photo {
+    overflow: hidden;
+}
+
+.photo img {
+    transition: all 0.3s ease-in-out;
+}
+
+.photo:hover img {
+    -webkit-transform: scale(1.15);
+    -ms-transform: scale(1.15);
+    transform: scale(1.15);
+}
+
+.navbar-nav a {
+    display: block;
+}
+
+.navbar-nav a:hover {
+    background-color: #3095d3;
 }
