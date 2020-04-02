@@ -5,7 +5,7 @@
   "background_color": "#051957",
   "display": "standalone",
   "scope": "/",
-  "start_url": ".",
+  "start_url": "/",
   "description": "Temat 1. Zadanie PSM. Informatyka Stosowana, grupa: KrZZIs3011Io. Grupa projektowa: Kamil Slosarczyk (kierownik projektu), 209458. Miroslaw Rdzanek, 209281. Jakub Trzmiel, 209660.  ",
  "icons": [
      {
